@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dw9jf62cy-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/dw9jf62cy-go
